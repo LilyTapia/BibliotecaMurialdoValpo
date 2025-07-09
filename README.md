@@ -73,8 +73,8 @@ Desarrollarán una aplicación que permita:
 ## 👩‍🏫 Coordinación docente
 
 **Docentes responsables:** Liliana Tapia - Juan Monsalves
-Área: Ciencias / Desarrollo de Aplicaciones  
-Contacto: [Tu correo o canal institucional]
+Área: Ciencias / Inglés/ Desarrollo de Aplicaciones  
+Contacto: []
 
 ---
 
