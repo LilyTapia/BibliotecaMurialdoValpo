@@ -1,12 +1,12 @@
 # 📚 Proyecto Integrado - Automatizando mi biblioteca 
 
-Este repositorio contiene el desarrollo conjunto de dos aplicaciones educativas creadas por estudiantes de 4° medio, con el objetivo de gestionar el uso de los salones del CRA y la administración de los libros del Salon B de la biblioteca escolar.
+Este repositorio contiene el desarrollo de una aplicación creada por estudiantes de 4° medio, con el objetivo de gestionar el uso de los salones del CRA de la biblioteca escolar.
 
 ---
 
-## 🧩 Participación por curso y grupos
+## 🧩 Participación por grupos Cuarto A y Cuarto B
 
-### 🔵 4° Medio A: Gestión de Salones del CRA
+### 🔵 Gestión de Salones del CRA
 
 Desarrollarán una aplicación que permita:
 - Registrar profesores
@@ -28,30 +28,6 @@ Desarrollarán una aplicación que permita:
 | Grupo 8 | Pruebas y documentación del sistema de salones |
 
 ---
-
-### 🟢 4° Medio B: Gestión de Libros de Biblioteca Salon B
-
-Desarrollarán una aplicación que permita:
-- Registrar libros, llaves y usuarios
-- Realizar préstamos y devoluciones
-- Controlar disponibilidad
-- Guardar datos en archivos `.json`
-
-#### Asignación de grupos:
-
-| Grupo | Tarea asignada |
-|-------|----------------|
-| Grupo 1 | Registro de libros y carga inicial desde archivo |
-| Grupo 2 | Registro de usuarios (profesores o estudiantes) |
-| Grupo 3 | Función de préstamo con validación de stock |
-| Grupo 4 | Función de devolución y actualización del inventario |
-| Grupo 5 | Persistencia de préstamos en `prestamos.json` |
-| Grupo 6 | Visualización de libros disponibles y en préstamo |
-| Grupo 7 | Menú e interfaz por consola para gestión de libros |
-| Grupo 8 | Pruebas funcionales y documentación del módulo libros |
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - 🐍 Python 3.11+
